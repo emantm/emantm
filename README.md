@@ -1,7 +1,7 @@
 # 💫 About Me:
 Student at the University of British Columbia studying a Bachelor of Science in Computer Science & minor in Business Management. I am passionate about leveraging technology to drive innovation and solve complex problems, and I am eager to contribute my knowledge and skills to the ever-evolving fields of computer science and business management. My goal is to pursue a career where I can merge my technical expertise with my understanding of business dynamics to make meaningful contributions to both fields.
 
-Fun Fact⚡: Barcelona are the greatest team in the world
+
 
 
 ## 🌐 Socials:
